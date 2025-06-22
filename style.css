@@ -1,0 +1,112 @@
+body{
+     font-family: "Young Serif", serif;
+}
+.section-one{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 20px;
+    
+}
+.section-one__Restaurant{
+    font-weight: normal;
+    
+    
+    
+    padding-top: 30px; 
+}
+
+
+.section-one__desc{
+    color: grey;
+         
+         padding-bottom: 20px;
+
+    
+}
+
+.section-two__img1{
+ display:  inline-block;
+}
+.section-two__img2{
+    display: inline-block;
+    
+}
+.section-two__img3{
+    display: inline-block;
+    
+}
+.section-two__img4{
+    display: inline-block;
+    
+}
+.container{
+    text-align: center;
+}
+
+.section-two__button1,.section-two__button2,.section-two__button3,.section-two__button4{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+.section-two__img1,.section-two__img2,.section-two__img3,.section-two__img4{
+    border:solid black 2px;}
+
+.section-three{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin: 40px;
+}
+.section-three__contact {
+  margin: auto;
+  border-collapse: collapse;
+}
+.section-three__contact td {
+  padding: 10px;
+}
+.section-three__contact input[type="text"], .section-three__contact input[type="number"], .section-three__contact input[type="email"] {
+  width: 200px;
+  height: 30px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+.section-three__button5 button {
+  width: 100px;
+  height: 30px;
+  background-color:yellow;
+  color: black;
+  
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
