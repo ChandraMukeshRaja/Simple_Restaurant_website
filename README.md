@@ -15,4 +15,4 @@ Technologies Used
 - HTML5
 - CSS3
 
-Check out the live demo 
+Check out the live demo https://chandramukeshraja.github.io/Simple_Restaurant_website/
